@@ -1,0 +1,8 @@
+{
+  "label": "SPARQL",
+  "position": 4,
+  "link": {
+    "type": "generated-index",
+    "description": "GraphDB query language",
+  }
+}

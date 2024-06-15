@@ -1,47 +1,38 @@
 ---
 sidebar_position: 1
+slug: /
 ---
 
-# Tutorial Intro
+## Intro
 
-Let's discover **Docusaurus in less than 5 minutes**.
+Hi~ 我是Gary Wu，一名軟體工程師。這是我的部落格，我會在這裡分享一些技術文章，希望能幫助到你。
 
-## Getting Started
+### 在這個生成式AI時代，還需要經營部落格的理由是？
 
-Get started by **creating a new site**.
+之前，在 Medium.com 經營了一段時間部落格。紀錄了軟體工程師的學習歷程，也分享了一些技術文章。
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
+對我來說，筆記是一個很好的學習方式，透過寫作，可以讓我更深入的了解一個技術，也可以讓我更清楚的表達自己的想法。
 
-### What you'll need
+在生成式AI時代，我們可以透過AI生成文章，那我還需要寫技術文章嗎？這是一個很好的問題。
 
-- [Node.js](https://nodejs.org/en/download/) version 18.0 or above:
-  - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
+有幾個因素支持我繼續寫技術文章：
+- AI可以成為我的工具, 但AI無法取代我的思考。 
+- 技術文章可以紀錄個人式的經驗, 而不是生成式的經驗。 
+- 在撰寫技術文章的過程，我經歷了整理、思考、消化吸收以及輸出的過程，這個過程對學習者是有益處的。 
+- 技術文章可以幫助他人，這是一個很好的分享方式。
 
-## Generate a new site
 
-Generate a new Docusaurus site using the **classic template**.
+### 技術文章的主題範圍
 
-The classic template will automatically be added to your project after you run the command:
+我想，主題會包含但不限於：
+- 各類程式語言
+- 前端技術
+- 後端技術
+- 資料庫
+- linux
+- 雲端服務
+- 自然語言處理
+- 電腦視覺
+- 程式教育
 
-```bash
-npm init docusaurus@latest my-website classic
-```
 
-You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
-
-The command also installs all necessary dependencies you need to run Docusaurus.
-
-## Start your site
-
-Run the development server:
-
-```bash
-cd my-website
-npm run start
-```
-
-The `cd` command changes the directory you're working with. In order to work with your newly created Docusaurus site, you'll need to navigate the terminal there.
-
-The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
-
-Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.
