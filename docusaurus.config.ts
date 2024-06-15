@@ -28,7 +28,7 @@ const config: Config = {
     defaultLocale: 'en',
     locales: ['en'],
   },
-  themes: ['@docusaurus/theme-live-codeblock', '@docusaurus/theme-mermaid', '@docusaurus/theme-search-algolia'],
+  themes: ['@docusaurus/theme-live-codeblock', '@docusaurus/theme-mermaid'],
 
   presets: [
     [
